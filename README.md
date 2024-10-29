@@ -13,7 +13,7 @@ Skills:  HTML / CSS/ BOOTSTRAPS
 - 👯 I’m looking to collaborate on GitHub 
 - ⚡ Fun fact: code is fun 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tuhinjubayer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tuhin.jubayer.09/) 
+
  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
