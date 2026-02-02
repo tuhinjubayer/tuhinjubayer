@@ -60,7 +60,7 @@ Skills: <div align="left">
 
 
 <a href="OPTIONAL_REDIRECT_URL" target="_blank">
-  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2l5d3A2eGphNWYycWM0b2R5NDJ6NnVsNTVrNmVyOGkxdHJ1emprcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" height="50 px" alt="Description of GIF"/>
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2l5d3A2eGphNWYycWM0b2R5NDJ6NnVsNTVrNmVyOGkxdHJ1emprcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" height="300 px" alt="Description of GIF"/>
 </a>
 
 
